@@ -1,6 +1,6 @@
 ## Using a high-capacity external battery
 
-The key of this is that the battery is _not_ in the neighborhood, so the wires are connected according to the figure:
+After getting into a big mess with the Waveshare HAT, choice of the PiJuice was better. Looking at the matter of not using the battery that came with the hat, there is [this](https://learn.pi-supply.com/make/how-to-setup-connect-your-pijuice-battery/). The key of this is that the battery is _not_ in the neighborhood, so the wires are connected according to the figure:
 
 ![image](/power/external-battery-connect.jpg)
 
