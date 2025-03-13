@@ -2,7 +2,7 @@
 
 To control the temperature of a RaspberryPi 4, mounted inside a chamber of a huggable, pettable plush robot:
 
-![chamber]()
+![chamber](/fan/chamber.jpg)
 
 Using the GeekWorm Model P165-A 7mm Embedded Armor [heatsink](https://wiki.geekworm.com/P165), 
 
